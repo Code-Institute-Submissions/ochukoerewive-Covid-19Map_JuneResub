@@ -1,5 +1,12 @@
 # covid-19 Data Map
+A map depicting the spread of the pandemic; COVID-19, using data visualization for representation.
+Created with HTML, CSS and Javascript.
 
+Simply hover or scroll over any country to see the data. 
+
+
+## Usage
+download folder and open the HTML file.
 
 
 ## Data
