@@ -1,10 +1,11 @@
 //declaration of global variables that can be reference within any function
+
 var countryData = "";
 var activeCountry = "";
 var timestamp = 0;
 var mY = 0;
 
-//retrieve a response data from a country.
+//retrieve a response data from a country hovered on.
 //the return data is stored inside the global variable countryData
 //Here we use the Ajax asynchronous function to make a GET http request from the URL
 function getData() {
