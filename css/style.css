@@ -1,4 +1,20 @@
-body 
+body {
+  width: 100vw;
+  height: 100vh;
+  display: grid;
+  place-items: center;
+  --white: #fff;
+  --yellow: #FFD464;
+  --darkblue: #005693;
+  --navyblue: #170E2B;
+  --blue: #009CAB;
+  --red: #E64626;
+  --tan: #BBC69B;
+  --orange: #F28801;
+  background: var(--darkblue);
+  -webkit-transition: 0.5s ease-in-out;
+  transition: 0.5s ease-in-out;
+}
 body.loaded {
   background: var(--tan);
 }
