@@ -1,5 +1,4 @@
 //declaration of global variables that can be reference within any function
-
 var countryData = "";
 var activeCountry = "";
 var timestamp = 0;
