@@ -1,4 +1,12 @@
 # covid-19 Data Map
+OCHUKO EREWIVE WEBSITE 2
+
+## Interactive Frontend MileStone Project
+ # A Project of Covid-19 Data Map
+
+
+
+
 A map depicting the spread of the pandemic; COVID-19, using data visualization for representation.
 Created with HTML, CSS and Javascript.
 
