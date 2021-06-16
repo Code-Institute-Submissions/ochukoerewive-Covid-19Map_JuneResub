@@ -2,7 +2,14 @@
 OCHUKO EREWIVE WEBSITE 2
 
 ## Interactive Frontend MileStone Project
+---
  # A Project of Covid-19 Data Map
+
+This is a website presented by Ochuko Erewive. The site shows and gives upto date informations of the total cases, death and also recoveries of COVID-19.
+
+This project is for educational purposes and can not be be used as a template for any personal use. Main aim is to build an Interactive website using HTML, CSS and Javascript.
+
+
 
 
 
