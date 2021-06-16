@@ -9,8 +9,39 @@ This is a website presented by Ochuko Erewive. The site shows and gives upto dat
 
 This project is for educational purposes and can not be be used as a template for any personal use. Main aim is to build an Interactive website using HTML, CSS and Javascript.
 
+---
 
+## Live Website in github
+---
 
+# UX
+
+## Website goals
+
+## Structure of the Website
+
+## Wireframes
+
+## Features
+
+## Navigation scheme
+
+## Technology used
+
+## 3rd party libery / API
+The covid-19 data used was gotten from [this API](https://coronavirus-19-api.herokuapp.com/countries).
+
+## Testing
+
+## Compatibility testing
+
+## Performance testing
+
+## Deployment
+
+## Screen Shots
+---
+# THANK YOU
 
 
 
