@@ -26,6 +26,22 @@ USER STORIES
 + Is to get all information at the tip of my hand.
 + To showcase all the Total Cases affected in a country, total death and also total recovered from the pendemic.
 
+As a new user, you will find the total cases of people affected, howmany death and also howmany recovered from Covid.
+
+
+## STRUCTURE OF THE WEBSITE
+This website is user friendly to all display platforms like the Desktop computer, Laptop computer, Ipad, android phones and also apply phones. Every aspect of the site is designed to achieve maximum user satisfaction.
+
+
+## WIREFRAMES
++ The wireframes were designed using corel-draw. Below is the website view on how it should look at the finished state.
+
+COMPUTER VIEW 
+![Computer view](assets/images/computer1.jpg)
+
+![Computer view](assets/images/computer2.jpg)
+
+
 
 
 
