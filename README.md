@@ -37,9 +37,9 @@ This website is user friendly to all display platforms like the Desktop computer
 + The wireframes were designed using corel-draw. Below is the website view on how it should look at the finished state.
 
 COMPUTER VIEW 
-![Computer view](assets/images/computer1.jpg)
+![Wireframe view](assets/images/WireframeView1.jpg)
 
-![Computer view](assets/images/computer2.jpg)
+![Wireframe view](assets/images/WireframeView2.jpg)
 
 
 ## COLORS
