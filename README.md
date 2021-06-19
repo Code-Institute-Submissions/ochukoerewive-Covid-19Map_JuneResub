@@ -3,11 +3,12 @@
 ## Interactive Frontend Development Milestone Project
 ![page-view](assets/images/ms2.jpg)
 
-A website presenting Ochuko Erewive's Resume. Users will be able to find instresting content of work done in an easy and simple way.
+A website presenting Ochuko Erewive's Interactive Frontend website. The website is easy to navigate and you can get the information dirrectly without a click of a mouse. Just by placing the mouse on any country the information is displayed on the screen. 
 
-This project is for educational purposes and can not be be used as a template for any personal use. Main aim is to build a responsive website with HTML and CSS only.
+I tested this site with all mobile devices and they function just like the computer. the only defference is that with an ipad, android phone or apple phones you need to touch the country you which to view the COVID data.
 
-Bootstrap is used to make it clear and clean.
+I would like to say that this project is for educational purposes and can not be be used as a template for any personal use. Main aim is to build an interactive website with HTML CSS and Javascript.
+
 
 ## Live website can be viewd in githup
 
