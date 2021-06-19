@@ -42,7 +42,41 @@ COMPUTER VIEW
 ![Computer view](assets/images/computer2.jpg)
 
 
+## COLORS
+ + World Map color: #FFD464;
+  + Background color: #009CAB;
 
+## FEATURES
++ The website has only one page to save time in retrieving data of any country of choice
+
+## TECHNOLOGY USED
+### Maps and Design
+The webpage was built using HTML, CSS, and Javascript.
+The map was created using SVG.
+
+### 3rd party libraries
+Examples use these thIrd party libraries:
+
+* [SVG](http://www.w3.org/2000/svg)
+* [INKSCAPE](http://www.inkscape.org/namespaces/inkscape)
+* [SODIPODI](http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd)
+* [FONT](https://fonts.googleapis.com/css?family=Oswald:200,400,700&display=swap)
+
+## TESTING
+This site was tested in google chrome and windows explorer brouwser.
++ Tested with DELL Computer.
++ Tested with HP Computer also.
+
+### COMPATIBILITY TESTING
++ The website was tested across multiple virtual mobile devices browsers
+
+
+## PERFORMACE TESTING
+
+
+---
+---
+---
 
 
 
