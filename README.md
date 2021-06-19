@@ -3,21 +3,35 @@
 ## Interactive Frontend Development Milestone Project
 ![page-view](assets/images/ms2.jpg)
 
-A website presenting Ochuko Erewive's Interactive Frontend website. The website is easy to navigate and you can get the information dirrectly without a click of a mouse. Just by placing the mouse on any country the information is displayed on the screen. 
+Ppresenting Ochuko Erewive's Interactive Frontend website. A site that can be used by anyone or age with the information about the pendemic(Covid-19) displayed just by the move of your hands or mouse. 
+
+
+## Live website can be viewd in githup
+
+
+#  UX
+
+## The goal for the COVID-19 Website
++ Is to have a website that is easy to navigate through by moving your mouse.
++ To get information directly without clicking to a page or waiting too long for the display of COVID-19 data.
+
+
+### USER GOALS
+ NEW USER GOALS.
+ + User is able to see all countries at once.
+ + User is able to get all information in one place or page.
+ + User is able to get any inforation of any country as regards to Covid-19 data
+
+
+
+The website is easy to navigate and you can get the information dirrectly without a click of a mouse. Just by placing the mouse on any country the information is displayed on the screen. 
 
 I tested this site with all mobile devices and they function just like the computer. the only defference is that with an ipad, android phone or apple phones you need to touch the country you which to view the COVID data.
 
 I would like to say that this project is for educational purposes and can not be be used as a template for any personal use. Main aim is to build an interactive website with HTML CSS and Javascript.
 
 
-## Live website can be viewd in githup
-
-
-
-#  UX
-
-## Website Resume goals
-
+---
 The reason for this website is to create a Resume showcasing and selling your ability and talents of all the work you have done in the past years and also to convince any potential employer in search of a Full-Stack Developer in his/her reputable organisation. With this site, detailed past experienced work is displayed to measure one's ability.
 
 USER GOALS
