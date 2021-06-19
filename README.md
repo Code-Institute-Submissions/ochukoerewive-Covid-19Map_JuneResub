@@ -22,6 +22,13 @@ Ppresenting Ochuko Erewive's Interactive Frontend website. A site that can be us
  + User is able to get all information in one place or page.
  + User is able to get any inforation of any country as regards to Covid-19 data
 
+USER STORIES
++ Is to get all information at the tip of my hand.
++ To showcase all the Total Cases affected in a country, total death and also total recovered from the pendemic.
+
+
+
+
 
 
 The website is easy to navigate and you can get the information dirrectly without a click of a mouse. Just by placing the mouse on any country the information is displayed on the screen. 
